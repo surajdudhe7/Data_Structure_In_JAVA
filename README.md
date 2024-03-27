@@ -26,6 +26,3 @@ You can clone this repository to access the data structure implementations. Feel
 
 We welcome contributions to enhance this repository. If you have improvements, bug fixes, or additional data structures you'd like to add, please follow our contribution guidelines (CONTRIBUTING.md).
 
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for details.
